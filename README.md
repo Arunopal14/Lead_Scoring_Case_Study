@@ -1,1 +1,1 @@
-# Lead_Scoring_Case_Study
+# A case study on Lead scoring
